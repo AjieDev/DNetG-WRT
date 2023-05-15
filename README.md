@@ -26,7 +26,7 @@ Wifi: SSID: DNetG-AP | WPA Pswd: 12345678
 
 Reyre - Base System (https://github.com/r3yr3) <br />
 Helmiau - Referensi code (https://github.com/helmiau) <br />
-AjieDev - Rebuilder/repacker__
+AjieDev - Rebuilder/repacker <br />
 
 
 # Unduhan/Download
