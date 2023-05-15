@@ -1,5 +1,5 @@
 # DNetG-WRT
-A OpenWRT Mod OS
+A OpenWRT Mod OS |
 HG680-P ONLY! (s905x)
 
 # Tentang & Fitur-Fitur
