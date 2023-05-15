@@ -16,7 +16,8 @@ Nah DNetG WRT atau "OpenWRT Mod" ini menawarkan:
 DNetG WRT hanya di peruntukan untuk networking dan sharing file atau bisa yg lain, disesuaikan kebutuhan.
 
 # Screenshot/Preview
-![preview-dnetg-alpha](https://github.com/AjieDevCorp-Limited/DNetG-WRT/assets/86506499/2d10f32a-e211-453a-956c-b03f256ec41d)
+![dnetg0001](https://github.com/AjieDevCorp-Limited/DNetG-WRT/assets/86506499/a7d551a3-9d7f-4179-b659-c29d3d6dda8f)
+
 # Informasi penting
  
 Login password: ajiedev <br />
