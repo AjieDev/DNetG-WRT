@@ -23,6 +23,7 @@ DNetG WRT hanya di peruntukan untuk networking dan sharing file atau bisa yg lai
 Login password: ajiedev <br />
 Wifi: SSID: DNetG-AP | WPA Pswd: 12345678
 
+<b>INGAT! Gunakan dengan bijak, jangan untuk salahgunakan dan tidak memodifikasi atau menghapus credit pembuatnya dan mencuri gambar dsb.</b>
 # Credit
 
 Reyre - Base System [github/r3yr3](https://github.com/r3yr3) <br />
