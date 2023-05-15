@@ -16,15 +16,15 @@ DNetG WRT hanya di peruntukan untuk networking dan sharing file atau bisa yg lai
 
 # Credit
 
-Reyre - Base System (https://github.com/r3yr3)
-Helmiau - Referensi code (https://github.com/helmiau)
+Reyre - Base System (https://github.com/r3yr3),
+Helmiau - Referensi code (https://github.com/helmiau),
 AjieDev - Rebuilder/repacker
 
 
 # Unduhan/Download
 
-Untuk link bisa cek di Release
-Untuk kata sandi unduhan adalah 1234
+Untuk link bisa cek di Release,
+Untuk kata sandi unduhan adalah 1234 ,
 mohon dibaca file TXT di arsip tersebut untuk instruksi instalasi.
 
 
