@@ -23,7 +23,7 @@ AjieDev - Rebuilder/repacker
 
 # Unduhan/Download
 
-Untuk link bisa cek di Release,
+Untuk link bisa cek di [Release](https://github.com/AjieDevCorp-Limited/DNetG-WRT/releases),
 Untuk kata sandi unduhan adalah 1234 ,
 mohon dibaca file TXT di arsip tersebut untuk instruksi instalasi.
 
