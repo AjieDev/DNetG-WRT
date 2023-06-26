@@ -175,7 +175,7 @@ machine_model=$(cat /proc/device-tree/model | tr -d "\000")
 echo " ──────────────────────────────────────────────────"
 printf " ====D-Net Gateway Link Information===="
 echo ""
-printf " Device Model: \x1B[94m%s\x1B[0m" "A OPENWRT"
+printf " Device Model: \x1B[94m%s\x1B[0m" "AN OPENWRT"
 echo ""
 printf " SoC: \x1B[94m%s\x1B[0m" "AMLogic(R)"
 echo  ""
