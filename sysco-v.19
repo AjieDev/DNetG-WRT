@@ -1,5 +1,4 @@
 #!/bin/bash
-# JANGAN DIRUBAH FILE INI ADALAH FILE JANTUNG DARI SYSTEM
 export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
 
 THIS_SCRIPT="sysinfo"
